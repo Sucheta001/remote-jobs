@@ -581,6 +581,7 @@ Name | Website | Region
 [Pex](/company-profiles/pex.md) | https://pex.com | Worldwide
 [Picpay](/company-profiles/picpay.md) | https://picpay.com | Brazil
 [Pindrop](/company-profiles/pindrop.md) | https://www.pindrop.com/ | US
+[PixelCrayons](/company-profiles/pixelcrayons.com) |https://www.pixelcrayons.com/ | India
 [Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
 [Platform Builders](/company-profiles/platform-builders.md) | https://platformbuilders.io/ | Worldwide
 [Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
